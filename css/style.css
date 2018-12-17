@@ -2,4 +2,13 @@ body {
     background-image: url(../css/background-brick-close-up-1585710.jpg);
     background-size: 80%;
     font-family: 'Permanent Marker', cursive; color: aqua;
+    text-align: center
+}
+h1 {
+    font-size: 100px;
+
+
+}
+p { 
+    font-size: 50px;
 }
